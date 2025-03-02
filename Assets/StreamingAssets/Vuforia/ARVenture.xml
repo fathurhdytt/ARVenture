@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bronkus" size="1.000000 1.336272" />
+    <ImageTarget name="paru" size="1.000000 1.336272" />
+    <ImageTarget name="laring" size="1.000000 1.336272" />
+    <ImageTarget name="hidung" size="1.000000 1.336272" />
+    <ImageTarget name="alveolus" size="1.000000 1.336272" />
+    <ImageTarget name="sistempernapasan" size="1.000000 1.336272" />
+  </Tracking>
+</QCARConfig>

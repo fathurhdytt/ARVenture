@@ -1,0 +1,420 @@
+Pertanyaan 1 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 2 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 3 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 4 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 5 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 6 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 7 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 8 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 9 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 10 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 11 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 12 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 13 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 14 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 15 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 16 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 17 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 18 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 19 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 20 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 21 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 22 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 23 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 24 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 25 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 26 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 27 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 28 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 29 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 30 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 31 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 32 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 33 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 34 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 35 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 36 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 37 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 38 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 39 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 40 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 41 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 42 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 43 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 44 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 45 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 46 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 47 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 48 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 49 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 50 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 51 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 52 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 53 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 54 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 55 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
+#Pertanyaan 56 ( Jawaban: Opsi 4)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++D
+#Pertanyaan 57 ( Jawaban: Opsi 3)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++C
+#Pertanyaan 58 ( Jawaban: Opsi 1)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++A
+#Pertanyaan 59 ( Jawaban: Opsi 5)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++E
+#Pertanyaan 60 ( Jawaban: Opsi 2)
++Opsi 1
++Opsi 2
++Opsi 3
++Opsi 4
++Opsi 5
++B
